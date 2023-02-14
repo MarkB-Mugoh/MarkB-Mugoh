@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Marc</h1>
+<h1 align="center">Hi 👋, I'm Marc B</h1>
 <h3 align="center">AI’m an innovative software engineer experienced in managing all aspects of the development process for small to medium-sized high level robust application</h3>
 
 - 👨‍💻 All of my projects are available at [https://markb-mugoh.github.io](https://markb-mugoh.github.io)
