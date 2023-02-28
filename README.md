@@ -24,9 +24,9 @@ class AboutMe {
   public programmingLanguages: string[];
 
   constructor() {
-    this.name = "John Doe";
-    this.technologies = ["React", "Node.js", "Docker", "AWS", "GraphQL"];
-    this.programmingLanguages = ["JavaScript", "TypeScript", "Python", "Java", "Ruby"];
+    this.name = "MarkB Mugo";
+    this.technologies = ["Docker", "AWS","DevOps","PWA","GraphQL"];
+    this.programmingLanguages = ["PHP","Laravel","Python","Django","Javascript","TYpescript" "Node.js"];
   }
 
   public introduce() {
