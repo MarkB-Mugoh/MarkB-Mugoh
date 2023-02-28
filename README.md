@@ -21,9 +21,9 @@
 const aboutMe = {
    code: [ PHP,Laravel,Python,Django,Kotlin,Javascript,nodeJS,Typescript,React],
    technologies: {
-   
+      Tech: [`Cloud Computing`,`Hybrid app development`,`Progressive web applications (PWA)`,`Virtual reality (VR)`,`DevOps`,`Blockchain`],   
       backEnd: {
-         js: ["PHP, Laravel,NodeJS, Python, TS"],
+         Languages: ["PHP, Laravel,NodeJS, Python, TS"],
       },
       databases: [ "mySQL", "SQLServer","MongoDB"],
       android: ["Kotlin"]
