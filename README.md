@@ -25,8 +25,9 @@ class AboutMe {
 
   constructor() {
     this.name = "MarkB Mugo";
-    this.technologies = ["Docker", "AWS","DevOps","PWA","GraphQL"];
     this.programmingLanguages = ["PHP","Laravel","Python","Django","Javascript","TYpescript" "Node.js"];
+    this.technologies = ["Docker", "AWS","DevOps","PWA","GraphQL"];
+    
   }
 
   public introduce() {
@@ -41,6 +42,6 @@ myAboutMe.introduce();
 
 ```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markb-mugoh&show_icons=true&locale=en&layout=compact" alt="markb-mugoh" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markb-mugoh&" alt="markb-mugoh" /></p>
