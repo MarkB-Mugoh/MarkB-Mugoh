@@ -1,8 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Marc B</h1>
-<h3 align="center">
-I'm an innovative software engineer with a strong track record of successfully managing all aspects of the development process for small to medium-sized high-level robust applications. Over the years, I have honed my skills in various programming languages and frameworks, enabling me to develop efficient and scalable solutions that meet the needs of clients across a wide range of industries.
-</h3>
+<h4 align="center">
+As an innovative software engineer, I have a proven track record of effectively managing all aspects of the development process for small to medium-sized high-level robust applications. Through the years, I have sharpened my skills in various programming languages and frameworks, enabling me to design and deliver efficient, scalable solutions that cater to diverse industries and meet clients' specific requirements.
+</h4>
 
 <p align="left"> <a href="https://twitter.com/marcb_marcb" target="blank"><img src="https://img.shields.io/twitter/follow/marcb_marcb?logo=twitter&style=for-the-badge" alt="marcb_marcb" /></a> </p>
 
