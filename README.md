@@ -1,7 +1,3 @@
-<h4 align="center">
-As an innovative software engineer, I have a proven track record of effectively managing all aspects of the development process for small to medium-sized high-level robust applications. Through the years, I have sharpened my skills in various programming languages and frameworks, enabling me to design and deliver efficient, scalable solutions that cater to diverse industries and meet clients' specific requirements.
-</h4>
-
 <p align="left"> <a href="https://twitter.com/marcb_marcb" target="blank"><img src="https://img.shields.io/twitter/follow/marcb_marcb?logo=twitter&style=for-the-badge" alt="marcb_marcb" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://markb-mugoh.github.io](https://markb-mugoh.github.io)
@@ -45,3 +41,7 @@ myAboutMe.introduce();
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markb-mugoh&" alt="markb-mugoh" /></p>
+
+<h4 align="center">
+As an innovative software engineer, I have a proven track record of effectively managing all aspects of the development process for small to medium-sized high-level robust applications. Through the years, I have sharpened my skills in various programming languages and frameworks, enabling me to design and deliver efficient, scalable solutions that cater to diverse industries and meet clients' specific requirements.
+</h4>
